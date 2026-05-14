@@ -1,4 +1,4 @@
-# n8n-nodes-generic-rest-chat-model-AI
+# n8n-nodes-generic-rest-chat-model-ai
 
 A community sub-node that plugs any REST-based LLM into the n8n **AI Agent** as a Chat Model — without writing code or creating a custom node for each API.
 
@@ -23,13 +23,13 @@ AI Agent ──► Generic REST Chat Model ──► Your REST API
 In your n8n instance, go to **Settings → Community Nodes → Install** and enter:
 
 ```
-@welsonviana/n8n-nodes-generic-rest-chat-model-AI
+@welsonviana/n8n-nodes-generic-rest-chat-model-ai
 ```
 
 Or in a self-hosted Docker instance:
 
 ```bash
-docker exec -it n8n npm install @welsonviana/n8n-nodes-generic-rest-chat-model-AI
+docker exec -it n8n npm install @welsonviana/n8n-nodes-generic-rest-chat-model-ai
 ```
 
 ---

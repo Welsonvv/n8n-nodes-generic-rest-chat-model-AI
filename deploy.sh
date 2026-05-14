@@ -9,9 +9,9 @@
 
 set -e
 
-PACKAGE_NAME="@welsonviana/n8n-nodes-generic-rest-chat-model-AI"
+PACKAGE_NAME="@welsonviana/n8n-nodes-generic-rest-chat-model-ai"
 CONTAINER="n8n"
-TGZ="welsonviana-n8n-nodes-generic-rest-chat-model-AI-0.1.0.tgz"
+TGZ="welsonviana-n8n-nodes-generic-rest-chat-model-ai-0.1.0.tgz"
 NO_RESTART=false
 
 # Processar argumentos
